@@ -1,0 +1,15 @@
+# Core LLM & Agent Orchestration
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-text-splitters>=0.3.0
+langgraph>=0.2.0
+
+# Vector Store & Multilingual Embeddings (RAG)
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+
+# Web Demo UI
+gradio>=4.44.0
